@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. John Doe",
+    "specialty": "Cardiology",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "rating": 4.5,
+    "experience": "15 years",
+    "qualification": "MD, FACC",
+    "description": "Specialized in heart disease prevention and treatment"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Jane Smith",
+    "specialty": "Dermatology",
+    "image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "rating": 4.8,
+    "experience": "12 years",
+    "qualification": "MD, Board Certified",
+    "description": "Expert in skin care and cosmetic procedures"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Michael Chen",
+    "specialty": "Pediatrics",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "rating": 4.9,
+    "experience": "20 years",
+    "qualification": "MD, FAAP",
+    "description": "Compassionate care for children of all ages"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Sarah Johnson",
+    "specialty": "Orthopedics",
+    "image": "https://randomuser.me/api/portraits/women/4.jpg",
+    "rating": 4.7,
+    "experience": "18 years",
+    "qualification": "MD, FAAOS",
+    "description": "Specializing in sports medicine and joint replacement"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Robert Williams",
+    "specialty": "Neurology",
+    "image": "https://randomuser.me/api/portraits/men/5.jpg",
+    "rating": 4.6,
+    "experience": "22 years",
+    "qualification": "MD, PhD",
+    "description": "Expert in neurological disorders and brain health"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Emily Davis",
+    "specialty": "Psychiatry",
+    "image": "https://randomuser.me/api/portraits/women/6.jpg",
+    "rating": 4.8,
+    "experience": "10 years",
+    "qualification": "MD, Psychiatrist",
+    "description": "Mental health and wellness specialist"
+  },
+  {
+    "id": "7",
+    "name": "Dr. David Martinez",
+    "specialty": "General Medicine",
+    "image": "https://randomuser.me/api/portraits/men/7.jpg",
+    "rating": 4.5,
+    "experience": "14 years",
+    "qualification": "MBBS, MD",
+    "description": "Primary care physician for all age groups"
+  },
+  {
+    "id": "8",
+    "name": "Dr. Lisa Anderson",
+    "specialty": "Gynecology",
+    "image": "https://randomuser.me/api/portraits/women/8.jpg",
+    "rating": 4.9,
+    "experience": "16 years",
+    "qualification": "MD, FACOG",
+    "description": "Women's health and reproductive care expert"
+  }
+]

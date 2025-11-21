@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "1",
+    "name": "Colchicine 400mg",
+    "genericName": "Colchicine",
+    "manufacturer": "Reliance Biotech",
+    "price": 856,
+    "category": "Antiseptic",
+    "description": "Used for antiseptic treatment and related symptoms",
+    "dosage": "1 capsule 3 times daily",
+    "sideEffects": [
+      "Heartburn",
+      "Swelling",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "2",
+    "name": "Morphine 100mg",
+    "genericName": "Morphine",
+    "manufacturer": "HealGen",
+    "price": 144,
+    "category": "Pain Relief",
+    "description": "Used for pain relief and related symptoms",
+    "dosage": "Inject as directed by physician",
+    "sideEffects": [
+      "Drowsiness",
+      "Nausea",
+      "Dizziness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "3",
+    "name": "Itraconazole 750mg",
+    "genericName": "Itraconazole",
+    "manufacturer": "GastroHealth",
+    "price": 867,
+    "category": "Antifungal",
+    "description": "Used for antifungal treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Nausea",
+      "Headache",
+      "Fatigue"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "4",
+    "name": "Acetaminophen 20mg",
+    "genericName": "Acetaminophen",
+    "manufacturer": "AllerCare",
+    "price": 96,
+    "category": "Pain Relief",
+    "description": "Used for pain relief and related symptoms",
+    "dosage": "1-2 tablets every 4-6 hours",
+    "sideEffects": [
+      "Nausea",
+      "Dizziness",
+      "Liver damage (overdose)"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "5",
+    "name": "Amoxicillin 300mg",
+    "genericName": "Amoxicillin",
+    "manufacturer": "Sunrise Pharma",
+    "price": 260,
+    "category": "Antibiotic",
+    "description": "Used for antibiotic treatment and related symptoms",
+    "dosage": "1 capsule 3 times daily",
+    "sideEffects": [
+      "Diarrhea",
+      "Nausea",
+      "Skin rash"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "6",
+    "name": "Cetirizine 500mg",
+    "genericName": "Cetirizine",
+    "manufacturer": "Wellness Labs",
+    "price": 54,
+    "category": "Antihistamine",
+    "description": "Used for antihistamine treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Drowsiness",
+      "Dry mouth",
+      "Fatigue"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "7",
+    "name": "Omeprazole 1g",
+    "genericName": "Omeprazole",
+    "manufacturer": "GastroHealth",
+    "price": 126,
+    "category": "Gastric",
+    "description": "Used for gastric treatment and related symptoms",
+    "dosage": "1 capsule before breakfast",
+    "sideEffects": [
+      "Headache",
+      "Nausea",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "8",
+    "name": "Metformin 750mg",
+    "genericName": "Metformin",
+    "manufacturer": "DiabCare",
+    "price": 222,
+    "category": "Diabetes",
+    "description": "Used for diabetes treatment and related symptoms",
+    "dosage": "1 tablet twice daily with meals",
+    "sideEffects": [
+      "Nausea",
+      "Diarrhea",
+      "Stomach upset"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "9",
+    "name": "Aspirin 300mg",
+    "genericName": "Acetylsalicylic acid",
+    "manufacturer": "CardioMed",
+    "price": 430,
+    "category": "Cardiovascular",
+    "description": "Used for cardiovascular treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Stomach irritation",
+      "Bleeding risk",
+      "Ulcers"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "10",
+    "name": "Ibuprofen 10mg",
+    "genericName": "Ibuprofen",
+    "manufacturer": "PainFree",
+    "price": 703,
+    "category": "Pain Relief",
+    "description": "Used for pain relief and related symptoms",
+    "dosage": "1 tablet every 6-8 hours",
+    "sideEffects": [
+      "Stomach pain",
+      "Heartburn",
+      "Dizziness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": false
+  },
+  {
+    "id": "11",
+    "name": "Losartan 300mg",
+    "genericName": "Losartan",
+    "manufacturer": "BPCare",
+    "price": 516,
+    "category": "Blood Pressure",
+    "description": "Used for blood pressure treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Dizziness",
+      "Fatigue",
+      "Back pain"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "12",
+    "name": "Atorvastatin 100mg",
+    "genericName": "Atorvastatin",
+    "manufacturer": "Apex Therapeutics",
+    "price": 419,
+    "category": "Cardiovascular",
+    "description": "Used for cardiovascular treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Muscle pain",
+      "Headache",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "13",
+    "name": "Simvastatin 100mg",
+    "genericName": "Simvastatin",
+    "manufacturer": "NovaPharm",
+    "price": 242,
+    "category": "Cardiovascular",
+    "description": "Used for cardiovascular treatment and related symptoms",
+    "dosage": "1 tablet at bedtime",
+    "sideEffects": [
+      "Muscle pain",
+      "Constipation",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "14",
+    "name": "Levothyroxine 50mg",
+    "genericName": "Levothyroxine",
+    "manufacturer": "Zenith Labs",
+    "price": 692,
+    "category": "Endocrine",
+    "description": "Used for endocrine treatment and related symptoms",
+    "dosage": "1 tablet daily before breakfast",
+    "sideEffects": [
+      "Palpitations",
+      "Weight loss",
+      "Anxiety"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "15",
+    "name": "Loratadine 10mg",
+    "genericName": "Loratadine",
+    "manufacturer": "AllerCare",
+    "price": 519,
+    "category": "Antihistamine",
+    "description": "Used for antihistamine treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Dry mouth",
+      "Drowsiness",
+      "Headache"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "16",
+    "name": "Salbutamol 500mg",
+    "genericName": "Salbutamol",
+    "manufacturer": "CureAll",
+    "price": 678,
+    "category": "Respiratory",
+    "description": "Used for respiratory treatment and related symptoms",
+    "dosage": "Use 2 puffs every 4-6 hours as needed",
+    "sideEffects": [
+      "Tremor",
+      "Palpitations",
+      "Headache"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "17",
+    "name": "Prednisone 400mg",
+    "genericName": "Prednisone",
+    "manufacturer": "PharmaCo",
+    "price": 842,
+    "category": "Immunology",
+    "description": "Used for immunology treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Weight gain",
+      "Insomnia",
+      "Mood swings"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "18",
+    "name": "Fluconazole 50mg",
+    "genericName": "Fluconazole",
+    "manufacturer": "BioMedix",
+    "price": 478,
+    "category": "Antifungal",
+    "description": "Used for antifungal treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Nausea",
+      "Headache",
+      "Rash"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "19",
+    "name": "Acyclovir 250mg",
+    "genericName": "Acyclovir",
+    "manufacturer": "FortisMed",
+    "price": 801,
+    "category": "Antiviral",
+    "description": "Used for antiviral treatment and related symptoms",
+    "dosage": "1 tablet 5 times daily",
+    "sideEffects": [
+      "Nausea",
+      "Headache",
+      "Dizziness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "20",
+    "name": "Hydrocortisone 20mg",
+    "genericName": "Hydrocortisone",
+    "manufacturer": "TrustPharma",
+    "price": 464,
+    "category": "Dermatology",
+    "description": "Used for dermatology treatment and related symptoms",
+    "dosage": "Apply thin layer once daily",
+    "sideEffects": [
+      "Dry skin",
+      "Irritation",
+      "Thinning skin"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "21",
+    "name": "Calcium Carbonate 1g",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "PharmaCo",
+    "price": 698,
+    "category": "Vitamins & Supplements",
+    "description": "Used for vitamins & supplements treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Constipation",
+      "Gas",
+      "Nausea"
+    ],
+    "prescriptionRequired": false,
+    "inStock": false
+  },
+  {
+    "id": "22",
+    "name": "Folic Acid 10mg",
+    "genericName": "Folic Acid",
+    "manufacturer": "MediLabs",
+    "price": 310,
+    "category": "Vitamins & Supplements",
+    "description": "Used for vitamins & supplements treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Nausea",
+      "Loss of appetite",
+      "Irritation"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "23",
+    "name": "Vitamin D3 75mg",
+    "genericName": "Vitamin D3",
+    "manufacturer": "Wellness Labs",
+    "price": 565,
+    "category": "Vitamins & Supplements",
+    "description": "Used for vitamins & supplements treatment and related symptoms",
+    "dosage": "1 tablet weekly",
+    "sideEffects": [
+      "Nausea",
+      "Constipation",
+      "Weakness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "24",
+    "name": "Sertraline 250mg",
+    "genericName": "Sertraline",
+    "manufacturer": "NovaPharm",
+    "price": 529,
+    "category": "Antidepressant",
+    "description": "Used for antidepressant treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "25",
+    "name": "Fluoxetine 150mg",
+    "genericName": "Fluoxetine",
+    "manufacturer": "Zenith Labs",
+    "price": 177,
+    "category": "Antidepressant",
+    "description": "Used for antidepressant treatment and related symptoms",
+    "dosage": "1 capsule daily",
+    "sideEffects": [
+      "Nausea",
+      "Insomnia",
+      "Anxiety"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "26",
+    "name": "Clopidogrel 250mg",
+    "genericName": "Clopidogrel",
+    "manufacturer": "CardioMed",
+    "price": 266,
+    "category": "Cardiovascular",
+    "description": "Used for cardiovascular treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Bleeding risk",
+      "Bruising",
+      "Rash"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "27",
+    "name": "Warfarin 400mg",
+    "genericName": "Warfarin",
+    "manufacturer": "BPCare",
+    "price": 743,
+    "category": "Anticoagulant",
+    "description": "Used for anticoagulant treatment and related symptoms",
+    "dosage": "Dose individualized; monitor INR",
+    "sideEffects": [
+      "Bleeding risk",
+      "Nausea",
+      "Hair loss"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "28",
+    "name": "Doxycycline 20mg",
+    "genericName": "Doxycycline",
+    "manufacturer": "MediLabs",
+    "price": 730,
+    "category": "Antibiotic",
+    "description": "Used for antibiotic treatment and related symptoms",
+    "dosage": "1 capsule twice daily",
+    "sideEffects": [
+      "Nausea",
+      "Diarrhea",
+      "Photosensitivity"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "29",
+    "name": "Nitroglycerin 10mg",
+    "genericName": "Nitroglycerin",
+    "manufacturer": "TrustPharma",
+    "price": 650,
+    "category": "Cardiovascular",
+    "description": "Used for cardiovascular treatment and related symptoms",
+    "dosage": "Sublingual as needed for chest pain",
+    "sideEffects": [
+      "Headache",
+      "Dizziness",
+      "Flushing"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "30",
+    "name": "Tramadol 150mg",
+    "genericName": "Tramadol",
+    "manufacturer": "CureAll",
+    "price": 653,
+    "category": "Pain Relief",
+    "description": "Used for pain relief and related symptoms",
+    "dosage": "1 tablet every 4-6 hours as needed",
+    "sideEffects": [
+      "Dizziness",
+      "Nausea",
+      "Constipation"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "31",
+    "name": "Diazepam 250mg",
+    "genericName": "Diazepam",
+    "manufacturer": "PharmaCo",
+    "price": 298,
+    "category": "Neurology",
+    "description": "Used for neurology treatment and related symptoms",
+    "dosage": "1 tablet at bedtime",
+    "sideEffects": [
+      "Drowsiness",
+      "Dizziness",
+      "Fatigue"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "32",
+    "name": "Alprazolam 400mg",
+    "genericName": "Alprazolam",
+    "manufacturer": "HealGen",
+    "price": 188,
+    "category": "Neurology",
+    "description": "Used for neurology treatment and related symptoms",
+    "dosage": "1 tablet as directed",
+    "sideEffects": [
+      "Drowsiness",
+      "Dizziness",
+      "Memory impairment"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "33",
+    "name": "Metoprolol 50mg",
+    "genericName": "Metoprolol",
+    "manufacturer": "CardioMed",
+    "price": 714,
+    "category": "Cardiovascular",
+    "description": "Used for cardiovascular treatment and related symptoms",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Fatigue",
+      "Dizziness",
+      "Bradycardia"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "34",
+    "name": "Propranolol 75mg",
+    "genericName": "Propranolol",
+    "manufacturer": "BPCare",
+    "price": 723,
+    "category": "Cardiovascular",
+    "description": "Used for cardiovascular treatment and related symptoms",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Fatigue",
+      "Dizziness",
+      "Sleep disturbances"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "35",
+    "name": "Captopril 100mg",
+    "genericName": "Captopril",
+    "manufacturer": "Apex Therapeutics",
+    "price": 341,
+    "category": "Blood Pressure",
+    "description": "Used for blood pressure treatment and related symptoms",
+    "dosage": "1 tablet two to three times daily",
+    "sideEffects": [
+      "Cough",
+      "Dizziness",
+      "Hypotension"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "36",
+    "name": "Enalapril 200mg",
+    "genericName": "Enalapril",
+    "manufacturer": "NovaPharm",
+    "price": 452,
+    "category": "Blood Pressure",
+    "description": "Used for blood pressure treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Cough",
+      "Dizziness",
+      "Fatigue"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "37",
+    "name": "Spironolactone 75mg",
+    "genericName": "Spironolactone",
+    "manufacturer": "Sunrise Pharma",
+    "price": 435,
+    "category": "Cardiovascular",
+    "description": "Used for cardiovascular treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Hyperkalemia",
+      "Dizziness",
+      "Breast tenderness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "38",
+    "name": "Furosemide 20mg",
+    "genericName": "Furosemide",
+    "manufacturer": "TrustPharma",
+    "price": 498,
+    "category": "Cardiovascular",
+    "description": "Used for cardiovascular treatment and related symptoms",
+    "dosage": "1 tablet daily as directed",
+    "sideEffects": [
+      "Dehydration",
+      "Dizziness",
+      "Electrolyte imbalance"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "39",
+    "name": "Hydrochlorothiazide 50mg",
+    "genericName": "Hydrochlorothiazide",
+    "manufacturer": "BioMedix",
+    "price": 255,
+    "category": "Blood Pressure",
+    "description": "Used for blood pressure treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Electrolyte imbalance",
+      "Dizziness",
+      "Increased urination"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "40",
+    "name": "Insulin Glargine 10ml",
+    "genericName": "Insulin Glargine",
+    "manufacturer": "DiabCare",
+    "price": 682,
+    "category": "Diabetes",
+    "description": "Used for diabetes treatment and related symptoms",
+    "dosage": "Inject as prescribed",
+    "sideEffects": [
+      "Hypoglycemia",
+      "Injection site reaction",
+      "Weight gain"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "41",
+    "name": "Insulin Aspart 5ml",
+    "genericName": "Insulin Aspart",
+    "manufacturer": "DiabCare",
+    "price": 354,
+    "category": "Diabetes",
+    "description": "Used for diabetes treatment and related symptoms",
+    "dosage": "Inject as prescribed",
+    "sideEffects": [
+      "Hypoglycemia",
+      "Injection site reaction",
+      "Weight gain"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "42",
+    "name": "Salicylic Acid 10%",
+    "genericName": "Salicylic Acid",
+    "manufacturer": "Dermatica",
+    "price": 315,
+    "category": "Dermatology",
+    "description": "Used for dermatology treatment and related symptoms",
+    "dosage": "Apply once daily",
+    "sideEffects": [
+      "Irritation",
+      "Dryness",
+      "Redness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "43",
+    "name": "Mupirocin 20mg",
+    "genericName": "Mupirocin",
+    "manufacturer": "Apex Therapeutics",
+    "price": 456,
+    "category": "Dermatology",
+    "description": "Used for dermatology treatment and related symptoms",
+    "dosage": "Apply thin layer three times daily",
+    "sideEffects": [
+      "Burning",
+      "Itching",
+      "Rash"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "44",
+    "name": "Ketoconazole 100mg",
+    "genericName": "Ketoconazole",
+    "manufacturer": "Zenith Labs",
+    "price": 150,
+    "category": "Antifungal",
+    "description": "Used for antifungal treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Nausea",
+      "Headache",
+      "Abdominal pain"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "45",
+    "name": "Clotrimazole 10mg",
+    "genericName": "Clotrimazole",
+    "manufacturer": "MediLabs",
+    "price": 352,
+    "category": "Antifungal",
+    "description": "Used for antifungal treatment and related symptoms",
+    "dosage": "Apply to affected area twice daily",
+    "sideEffects": [
+      "Irritation",
+      "Redness",
+      "Burning"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "46",
+    "name": "Oseltamivir 75mg",
+    "genericName": "Oseltamivir",
+    "manufacturer": "PharmaCo",
+    "price": 550,
+    "category": "Antiviral",
+    "description": "Used for antiviral treatment and related symptoms",
+    "dosage": "1 capsule twice daily for 5 days",
+    "sideEffects": [
+      "Nausea",
+      "Vomiting",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "47",
+    "name": "Zanamivir 10mg",
+    "genericName": "Zanamivir",
+    "manufacturer": "FortisMed",
+    "price": 623,
+    "category": "Antiviral",
+    "description": "Used for antiviral treatment and related symptoms",
+    "dosage": "Inhalation as directed",
+    "sideEffects": [
+      "Cough",
+      "Throat irritation",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "48",
+    "name": "Benzalkonium 5mg",
+    "genericName": "Benzalkonium",
+    "manufacturer": "TrustPharma",
+    "price": 147,
+    "category": "Antiseptic",
+    "description": "Used for antiseptic treatment and related symptoms",
+    "dosage": "Apply to wound as needed",
+    "sideEffects": [
+      "Irritation",
+      "Allergic reaction",
+      "Dryness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "49",
+    "name": "Lidocaine 100mg",
+    "genericName": "Lidocaine",
+    "manufacturer": "BioMedix",
+    "price": 352,
+    "category": "Anesthesia",
+    "description": "Used for anesthesia treatment and related symptoms",
+    "dosage": "Apply topically as directed",
+    "sideEffects": [
+      "Irritation",
+      "Dizziness",
+      "Numbness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "50",
+    "name": "Bacitracin 50mg",
+    "genericName": "Bacitracin",
+    "manufacturer": "CureAll",
+    "price": 311,
+    "category": "Antiseptic",
+    "description": "Used for antiseptic treatment and related symptoms",
+    "dosage": "Apply thin layer to wound",
+    "sideEffects": [
+      "Allergic reaction",
+      "Irritation",
+      "Redness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "51",
+    "name": "Oxybutynin 5mg",
+    "genericName": "Oxybutynin",
+    "manufacturer": "Sunrise Pharma",
+    "price": 720,
+    "category": "Urology",
+    "description": "Used for urology treatment and related symptoms",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Dry mouth",
+      "Constipation",
+      "Dizziness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "52",
+    "name": "Tamsulosin 10mg",
+    "genericName": "Tamsulosin",
+    "manufacturer": "Apex Therapeutics",
+    "price": 275,
+    "category": "Urology",
+    "description": "Used for urology treatment and related symptoms",
+    "dosage": "1 capsule daily after meal",
+    "sideEffects": [
+      "Dizziness",
+      "Retrograde ejaculation",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "53",
+    "name": "Finasteride 50mg",
+    "genericName": "Finasteride",
+    "manufacturer": "Zenith Labs",
+    "price": 198,
+    "category": "Endocrine",
+    "description": "Used for endocrine treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Decreased libido",
+      "Erectile dysfunction",
+      "Breast tenderness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "54",
+    "name": "Latanoprost 10mcg",
+    "genericName": "Latanoprost",
+    "manufacturer": "AllerCare",
+    "price": 332,
+    "category": "Ophthalmic",
+    "description": "Used for ophthalmic treatment and related symptoms",
+    "dosage": "1 drop in affected eye at bedtime",
+    "sideEffects": [
+      "Eye irritation",
+      "Darkening of iris",
+      "Blurred vision"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "55",
+    "name": "Timolol 20mg",
+    "genericName": "Timolol",
+    "manufacturer": "PharmaCo",
+    "price": 231,
+    "category": "Ophthalmic",
+    "description": "Used for ophthalmic treatment and related symptoms",
+    "dosage": "1 drop twice daily",
+    "sideEffects": [
+      "Eye irritation",
+      "Bradycardia",
+      "Fatigue"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "56",
+    "name": "Azithromycin 500mg",
+    "genericName": "Azithromycin",
+    "manufacturer": "MediLabs",
+    "price": 733,
+    "category": "Antibiotic",
+    "description": "Used for antibiotic treatment and related symptoms",
+    "dosage": "1 tablet daily for 3 days",
+    "sideEffects": [
+      "Diarrhea",
+      "Nausea",
+      "Abdominal pain"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "57",
+    "name": "Gentamicin 80mg",
+    "genericName": "Gentamicin",
+    "manufacturer": "FortisMed",
+    "price": 548,
+    "category": "Antibiotic",
+    "description": "Used for antibiotic treatment and related symptoms",
+    "dosage": "Inject as directed",
+    "sideEffects": [
+      "Kidney toxicity",
+      "Hearing impairment",
+      "Injection site reaction"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "58",
+    "name": "Vancomycin 500mg",
+    "genericName": "Vancomycin",
+    "manufacturer": "BioMedix",
+    "price": 372,
+    "category": "Antibiotic",
+    "description": "Used for antibiotic treatment and related symptoms",
+    "dosage": "Inject as directed",
+    "sideEffects": [
+      "Red man syndrome",
+      "Kidney toxicity",
+      "Fever"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "59",
+    "name": "Gentian Violet 10mg",
+    "genericName": "Gentian Violet",
+    "manufacturer": "CureAll",
+    "price": 164,
+    "category": "Dermatology",
+    "description": "Used for dermatology treatment and related symptoms",
+    "dosage": "Apply to affected area",
+    "sideEffects": [
+      "Staining",
+      "Irritation",
+      "Allergic reaction"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "60",
+    "name": "Miconazole 20mg",
+    "genericName": "Miconazole",
+    "manufacturer": "Sunrise Pharma",
+    "price": 639,
+    "category": "Antifungal",
+    "description": "Used for antifungal treatment and related symptoms",
+    "dosage": "Apply twice daily",
+    "sideEffects": [
+      "Irritation",
+      "Itching",
+      "Burning"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "61",
+    "name": "Chelated Iron 100mg",
+    "genericName": "Iron (Chelate)",
+    "manufacturer": "Wellness Labs",
+    "price": 524,
+    "category": "Vitamins & Supplements",
+    "description": "Used for supplementing iron and preventing anemia",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Constipation",
+      "Nausea",
+      "Dark stools"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "62",
+    "name": "Ranitidine 150mg",
+    "genericName": "Ranitidine",
+    "manufacturer": "TrustPharma",
+    "price": 554,
+    "category": "Gastric",
+    "description": "Used for gastric treatment and related symptoms",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Headache",
+      "Constipation",
+      "Nausea"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "63",
+    "name": "Pantoprazole 40mg",
+    "genericName": "Pantoprazole",
+    "manufacturer": "PharmaCo",
+    "price": 175,
+    "category": "Gastric",
+    "description": "Used for gastric treatment and related symptoms",
+    "dosage": "1 tablet daily before meal",
+    "sideEffects": [
+      "Headache",
+      "Diarrhea",
+      "Nausea"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "64",
+    "name": "Rabeprazole 20mg",
+    "genericName": "Rabeprazole",
+    "manufacturer": "Apex Therapeutics",
+    "price": 746,
+    "category": "Gastric",
+    "description": "Used for gastric treatment and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Headache",
+      "Abdominal pain",
+      "Nausea"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "65",
+    "name": "Domperidone 10mg",
+    "genericName": "Domperidone",
+    "manufacturer": "MediLabs",
+    "price": 287,
+    "category": "Antiemetic",
+    "description": "Used for antiemetic treatment and related symptoms",
+    "dosage": "1 tablet before meals",
+    "sideEffects": [
+      "Dry mouth",
+      "Headache",
+      "Drowsiness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "66",
+    "name": "Metoclopramide 10mg",
+    "genericName": "Metoclopramide",
+    "manufacturer": "NovaPharm",
+    "price": 360,
+    "category": "Antiemetic",
+    "description": "Used for antiemetic treatment and related symptoms",
+    "dosage": "1 tablet before meals",
+    "sideEffects": [
+      "Drowsiness",
+      "Restlessness",
+      "Extrapyramidal symptoms"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "67",
+    "name": "Ondansetron 4mg",
+    "genericName": "Ondansetron",
+    "manufacturer": "FortisMed",
+    "price": 537,
+    "category": "Antiemetic",
+    "description": "Used for antiemetic treatment and related symptoms",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Constipation",
+      "Headache",
+      "Fatigue"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "68",
+    "name": "Salbutamol Nebulizer 5ml",
+    "genericName": "Salbutamol",
+    "manufacturer": "CureAll",
+    "price": 777,
+    "category": "Respiratory",
+    "description": "Used for respiratory treatment and related symptoms",
+    "dosage": "Nebulize as directed",
+    "sideEffects": [
+      "Tremor",
+      "Palpitations",
+      "Nervousness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "69",
+    "name": "Ipratropium 20mcg",
+    "genericName": "Ipratropium",
+    "manufacturer": "HealGen",
+    "price": 719,
+    "category": "Respiratory",
+    "description": "Used for respiratory treatment and related symptoms",
+    "dosage": "2 puffs four times daily",
+    "sideEffects": [
+      "Dry mouth",
+      "Cough",
+      "Headache"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "70",
+    "name": "Montelukast 10mg",
+    "genericName": "Montelukast",
+    "manufacturer": "AllerCare",
+    "price": 199,
+    "category": "Respiratory",
+    "description": "Used for respiratory treatment and related symptoms",
+    "dosage": "1 tablet daily at bedtime",
+    "sideEffects": [
+      "Headache",
+      "Abdominal pain",
+      "Dizziness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "71",
+    "name": "Ribavirin 200mg",
+    "genericName": "Ribavirin",
+    "manufacturer": "BioMedix",
+    "price": 301,
+    "category": "Antiviral",
+    "description": "Used for antiviral treatment and related symptoms",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Anemia",
+      "Fatigue",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "72",
+    "name": "Sildenafil 50mg",
+    "genericName": "Sildenafil",
+    "manufacturer": "Sunrise Pharma",
+    "price": 377,
+    "category": "Endocrine",
+    "description": "Used for endocrine treatment and related symptoms",
+    "dosage": "1 tablet as needed",
+    "sideEffects": [
+      "Headache",
+      "Flushing",
+      "Indigestion"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "73",
+    "name": "Tetracycline 250mg",
+    "genericName": "Tetracycline",
+    "manufacturer": "PharmaCo",
+    "price": 400,
+    "category": "Antibiotic",
+    "description": "Used for antibiotic treatment and related symptoms",
+    "dosage": "1 capsule twice daily",
+    "sideEffects": [
+      "Photosensitivity",
+      "Nausea",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "74",
+    "name": "Minocycline 100mg",
+    "genericName": "Minocycline",
+    "manufacturer": "MediLabs",
+    "price": 312,
+    "category": "Antibiotic",
+    "description": "Used for antibiotic treatment and related symptoms",
+    "dosage": "1 capsule daily",
+    "sideEffects": [
+      "Dizziness",
+      "Nausea",
+      "Photosensitivity"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "75",
+    "name": "Isotretinoin 20mg",
+    "genericName": "Isotretinoin",
+    "manufacturer": "Apex Therapeutics",
+    "price": 610,
+    "category": "Dermatology",
+    "description": "Used for dermatology treatment and related symptoms",
+    "dosage": "1 capsule daily with food",
+    "sideEffects": [
+      "Dry skin",
+      "Chapped lips",
+      "Teratogenicity"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "76",
+    "name": "Spirulina 500mg",
+    "genericName": "Spirulina",
+    "manufacturer": "Wellness Labs",
+    "price": 321,
+    "category": "Vitamins & Supplements",
+    "description": "Used for supplements and general wellbeing",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Digestive upset",
+      "Allergic reaction",
+      "Headache"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "77",
+    "name": "Omega-3 1g",
+    "genericName": "Omega-3",
+    "manufacturer": "NovaPharm",
+    "price": 200,
+    "category": "Vitamins & Supplements",
+    "description": "Used for supplements and general wellbeing",
+    "dosage": "1 capsule daily",
+    "sideEffects": [
+      "Fishy aftertaste",
+      "Nausea",
+      "Loose stools"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "78",
+    "name": "Glucosamine 750mg",
+    "genericName": "Glucosamine",
+    "manufacturer": "TrustPharma",
+    "price": 493,
+    "category": "Musculoskeletal",
+    "description": "Used for musculoskeletal support and joint health",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Nausea",
+      "Heartburn",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "79",
+    "name": "Meloxicam 15mg",
+    "genericName": "Meloxicam",
+    "manufacturer": "PainFree",
+    "price": 305,
+    "category": "Pain Relief",
+    "description": "Used for pain relief and related symptoms",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Stomach pain",
+      "Dizziness",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "80",
+    "name": "Naproxen 100mg",
+    "genericName": "Naproxen",
+    "manufacturer": "CureAll",
+    "price": 377,
+    "category": "Pain Relief",
+    "description": "Used for pain relief and related symptoms",
+    "dosage": "1 tablet every 8-12 hours",
+    "sideEffects": [
+      "Stomach pain",
+      "Heartburn",
+      "Dizziness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "81",
+    "name": "Celecoxib 100mg",
+    "genericName": "Celecoxib",
+    "manufacturer": "FortisMed",
+    "price": 856,
+    "category": "Pain Relief",
+    "description": "Used for pain relief and related symptoms",
+    "dosage": "1 capsule twice daily",
+    "sideEffects": [
+      "Stomach pain",
+      "Dizziness",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "82",
+    "name": "Naloxone 4mg",
+    "genericName": "Naloxone",
+    "manufacturer": "BioMedix",
+    "price": 210,
+    "category": "Emergency Care",
+    "description": "Used for emergency reversal of opioid overdose",
+    "dosage": "As emergency IM/IN injection",
+    "sideEffects": [
+      "Acute withdrawal symptoms",
+      "Nausea",
+      "Tremor"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "83",
+    "name": "Vitamin B12 500mcg",
+    "genericName": "Cobalamin",
+    "manufacturer": "Wellness Labs",
+    "price": 238,
+    "category": "Vitamins & Supplements",
+    "description": "Used for treating B12 deficiency",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Mild diarrhea",
+      "Itching",
+      "Headache"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "84",
+    "name": "Probiotic 5 billion",
+    "genericName": "Probiotic Blend",
+    "manufacturer": "Sunrise Pharma",
+    "price": 519,
+    "category": "Vitamins & Supplements",
+    "description": "Used to support gut health",
+    "dosage": "1 capsule daily",
+    "sideEffects": [
+      "Gas",
+      "Bloating",
+      "Digestive upset"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "85",
+    "name": "Dapagliflozin 10mg",
+    "genericName": "Dapagliflozin",
+    "manufacturer": "DiabCare",
+    "price": 810,
+    "category": "Diabetes",
+    "description": "Used for diabetes management",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Genital infections",
+      "Urinary tract infection",
+      "Dehydration"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "86",
+    "name": "Empagliflozin 10mg",
+    "genericName": "Empagliflozin",
+    "manufacturer": "DiabCare",
+    "price": 221,
+    "category": "Diabetes",
+    "description": "Used for diabetes management",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Urinary infection",
+      "Dehydration",
+      "Dizziness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "87",
+    "name": "Sodium Bicarbonate 500mg",
+    "genericName": "Sodium Bicarbonate",
+    "manufacturer": "TrustPharma",
+    "price": 518,
+    "category": "Gastric",
+    "description": "Used as antacid for indigestion",
+    "dosage": "Dissolve as directed",
+    "sideEffects": [
+      "Bloating",
+      "Gas",
+      "Electrolyte disturbance"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "88",
+    "name": "Sucralfate 1g",
+    "genericName": "Sucralfate",
+    "manufacturer": "PharmaCo",
+    "price": 407,
+    "category": "Gastric",
+    "description": "Used for gastric mucosal protection",
+    "dosage": "1 tablet before meals",
+    "sideEffects": [
+      "Constipation",
+      "Dry mouth",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "89",
+    "name": "Sodium Cromoglycate 20mg",
+    "genericName": "Sodium Cromoglycate",
+    "manufacturer": "AllerCare",
+    "price": 619,
+    "category": "ENT",
+    "description": "Used for allergic rhinitis and related symptoms",
+    "dosage": "Nasal spray as directed",
+    "sideEffects": [
+      "Nasal irritation",
+      "Sneezing",
+      "Cough"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "90",
+    "name": "Beclomethasone 50mcg",
+    "genericName": "Beclomethasone",
+    "manufacturer": "HealGen",
+    "price": 330,
+    "category": "Respiratory",
+    "description": "Used for asthma and allergy control",
+    "dosage": "2 puffs twice daily",
+    "sideEffects": [
+      "Hoarseness",
+      "Oral thrush",
+      "Cough"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "91",
+    "name": "Clobetasol 0.05%",
+    "genericName": "Clobetasol",
+    "manufacturer": "Dermatica",
+    "price": 345,
+    "category": "Dermatology",
+    "description": "Used for severe inflammatory skin conditions",
+    "dosage": "Apply thin layer twice daily",
+    "sideEffects": [
+      "Skin thinning",
+      "Irritation",
+      "Acneiform eruptions"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "92",
+    "name": "Hydroxyzine 25mg",
+    "genericName": "Hydroxyzine",
+    "manufacturer": "NovaPharm",
+    "price": 255,
+    "category": "Antihistamine",
+    "description": "Used for anxiety and allergic symptoms",
+    "dosage": "1 tablet at bedtime as needed",
+    "sideEffects": [
+      "Drowsiness",
+      "Dry mouth",
+      "Dizziness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "93",
+    "name": "Promethazine 10mg",
+    "genericName": "Promethazine",
+    "manufacturer": "Sunrise Pharma",
+    "price": 137,
+    "category": "Antihistamine",
+    "description": "Used for nausea and allergic reactions",
+    "dosage": "1 tablet at bedtime",
+    "sideEffects": [
+      "Drowsiness",
+      "Dry mouth",
+      "Blurred vision"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "94",
+    "name": "Phenylephrine 5mg",
+    "genericName": "Phenylephrine",
+    "manufacturer": "CureAll",
+    "price": 620,
+    "category": "Cold & Flu",
+    "description": "Used as nasal decongestant",
+    "dosage": "1 tablet every 4-6 hours",
+    "sideEffects": [
+      "Nervousness",
+      "Hypertension",
+      "Insomnia"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "95",
+    "name": "Pseudoephedrine 60mg",
+    "genericName": "Pseudoephedrine",
+    "manufacturer": "TrustPharma",
+    "price": 588,
+    "category": "Cold & Flu",
+    "description": "Used as nasal decongestant",
+    "dosage": "1 tablet every 4-6 hours",
+    "sideEffects": [
+      "Insomnia",
+      "Hypertension",
+      "Palpitations"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "96",
+    "name": "Guaifenesin 200mg",
+    "genericName": "Guaifenesin",
+    "manufacturer": "MediLabs",
+    "price": 250,
+    "category": "Respiratory",
+    "description": "Used as expectorant for cough",
+    "dosage": "1 tablet every 4-6 hours",
+    "sideEffects": [
+      "Nausea",
+      "Dizziness",
+      "Headache"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "97",
+    "name": "Dextromethorphan 30mg",
+    "genericName": "Dextromethorphan",
+    "manufacturer": "PharmaCo",
+    "price": 268,
+    "category": "Respiratory",
+    "description": "Used as cough suppressant",
+    "dosage": "1 teaspoon every 4 hours as needed",
+    "sideEffects": [
+      "Dizziness",
+      "Nausea",
+      "Drowsiness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "98",
+    "name": "Budesonide 200mcg",
+    "genericName": "Budesonide",
+    "manufacturer": "AllerCare",
+    "price": 689,
+    "category": "Respiratory",
+    "description": "Used for asthma maintenance",
+    "dosage": "2 puffs twice daily",
+    "sideEffects": [
+      "Oral thrush",
+      "Hoarseness",
+      "Cough"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "99",
+    "name": "Rifampicin 300mg",
+    "genericName": "Rifampicin",
+    "manufacturer": "FortisMed",
+    "price": 342,
+    "category": "Antibiotic",
+    "description": "Used in combination therapy for infections",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Orange discoloration of secretions",
+      "Hepatotoxicity",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "100",
+    "name": "Isoniazid 300mg",
+    "genericName": "Isoniazid",
+    "manufacturer": "BioMedix",
+    "price": 656,
+    "category": "Antibiotic",
+    "description": "Used for tuberculosis treatment",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Hepatotoxicity",
+      "Peripheral neuropathy",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "101",
+    "name": "Trimethoprim 200mg",
+    "genericName": "Trimethoprim",
+    "manufacturer": "CureAll",
+    "price": 640,
+    "category": "Antibiotic",
+    "description": "Used for urinary and other infections",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Nausea",
+      "Rash",
+      "Hyperkalemia"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "102",
+    "name": "Sulfamethoxazole/Trimethoprim 800/160mg",
+    "genericName": "Co-trimoxazole",
+    "manufacturer": "PharmaCo",
+    "price": 590,
+    "category": "Antibiotic",
+    "description": "Used for bacterial infections",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Rash",
+      "Nausea",
+      "Photosensitivity"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "103",
+    "name": "Clarithromycin 250mg",
+    "genericName": "Clarithromycin",
+    "manufacturer": "Sunrise Pharma",
+    "price": 397,
+    "category": "Antibiotic",
+    "description": "Used for respiratory and other infections",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Nausea",
+      "Taste disturbance",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "104",
+    "name": "Linezolid 600mg",
+    "genericName": "Linezolid",
+    "manufacturer": "Apex Therapeutics",
+    "price": 690,
+    "category": "Antibiotic",
+    "description": "Used for resistant gram-positive infections",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Bone marrow suppression",
+      "Diarrhea",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "105",
+    "name": "Cefuroxime 250mg",
+    "genericName": "Cefuroxime",
+    "manufacturer": "NovaPharm",
+    "price": 744,
+    "category": "Antibiotic",
+    "description": "Used for bacterial infections",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Diarrhea",
+      "Nausea",
+      "Rash"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "106",
+    "name": "Cefixime 100mg",
+    "genericName": "Cefixime",
+    "manufacturer": "MediLabs",
+    "price": 256,
+    "category": "Antibiotic",
+    "description": "Used for bacterial infections",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Diarrhea",
+      "Abdominal pain",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "107",
+    "name": "Ceftriaxone 1g",
+    "genericName": "Ceftriaxone",
+    "manufacturer": "FortisMed",
+    "price": 403,
+    "category": "Antibiotic",
+    "description": "Injectable antibiotic for severe infections",
+    "dosage": "Inject as directed",
+    "sideEffects": [
+      "Injection site pain",
+      "Diarrhea",
+      "Allergic reaction"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "108",
+    "name": "Cholecalciferol 60,000 IU",
+    "genericName": "Cholecalciferol",
+    "manufacturer": "Wellness Labs",
+    "price": 605,
+    "category": "Vitamins & Supplements",
+    "description": "High-dose vitamin D for deficiency",
+    "dosage": "1 sachet weekly as directed",
+    "sideEffects": [
+      "Hypercalcemia",
+      "Nausea",
+      "Weakness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "109",
+    "name": "Calcitriol 0.25mcg",
+    "genericName": "Calcitriol",
+    "manufacturer": "Zenith Labs",
+    "price": 209,
+    "category": "Endocrine",
+    "description": "Used for hypocalcemia and bone disease",
+    "dosage": "1 capsule daily",
+    "sideEffects": [
+      "Hypercalcemia",
+      "Weakness",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "110",
+    "name": "Erythromycin 250mg",
+    "genericName": "Erythromycin",
+    "manufacturer": "PharmaCo",
+    "price": 498,
+    "category": "Antibiotic",
+    "description": "Used for respiratory and skin infections",
+    "dosage": "1 tablet every 6-8 hours",
+    "sideEffects": [
+      "Nausea",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "111",
+    "name": "Rifaximin 200mg",
+    "genericName": "Rifaximin",
+    "manufacturer": "BioMedix",
+    "price": 447,
+    "category": "Gastrointestinal",
+    "description": "Used for traveler’s diarrhea and IBS-D",
+    "dosage": "1 tablet three times daily",
+    "sideEffects": [
+      "Nausea",
+      "Dizziness",
+      "Fatigue"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "112",
+    "name": "Loperamide 2mg",
+    "genericName": "Loperamide",
+    "manufacturer": "TrustPharma",
+    "price": 283,
+    "category": "Gastrointestinal",
+    "description": "Used to relieve diarrhea",
+    "dosage": "2 tablets after first loose stool then 1 after each loose stool",
+    "sideEffects": [
+      "Constipation",
+      "Dizziness",
+      "Nausea"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "113",
+    "name": "Dicyclomine 20mg",
+    "genericName": "Dicyclomine",
+    "manufacturer": "Apex Therapeutics",
+    "price": 272,
+    "category": "Gastrointestinal",
+    "description": "Used for irritable bowel syndrome symptoms",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Dry mouth",
+      "Dizziness",
+      "Blurred vision"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "114",
+    "name": "Sodium Picosulfate 10mg",
+    "genericName": "Sodium Picosulfate",
+    "manufacturer": "Sunrise Pharma",
+    "price": 592,
+    "category": "Gastrointestinal",
+    "description": "Used as stimulant laxative",
+    "dosage": "As directed for bowel prep",
+    "sideEffects": [
+      "Abdominal pain",
+      "Cramping",
+      "Dehydration"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "115",
+    "name": "Bisacodyl 10mg",
+    "genericName": "Bisacodyl",
+    "manufacturer": "MediLabs",
+    "price": 697,
+    "category": "Gastrointestinal",
+    "description": "Used as stimulant laxative",
+    "dosage": "1 tablet at bedtime",
+    "sideEffects": [
+      "Abdominal cramps",
+      "Diarrhea",
+      "Nausea"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "116",
+    "name": "Levocetirizine 5mg",
+    "genericName": "Levocetirizine",
+    "manufacturer": "AllerCare",
+    "price": 363,
+    "category": "Antihistamine",
+    "description": "Used for allergic rhinitis relief",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Drowsiness",
+      "Dry mouth",
+      "Fatigue"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "117",
+    "name": "Bilastine 20mg",
+    "genericName": "Bilastine",
+    "manufacturer": "HealGen",
+    "price": 473,
+    "category": "Antihistamine",
+    "description": "Used for allergic rhinitis and urticaria",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Drowsiness",
+      "Headache",
+      "Dry mouth"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "118",
+    "name": "Levothyroxine Sodium 100mcg",
+    "genericName": "Levothyroxine",
+    "manufacturer": "Zenith Labs",
+    "price": 324,
+    "category": "Endocrine",
+    "description": "Used for hypothyroidism",
+    "dosage": "1 tablet daily before breakfast",
+    "sideEffects": [
+      "Palpitations",
+      "Weight changes",
+      "Insomnia"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "119",
+    "name": "Glyburide 5mg",
+    "genericName": "Glyburide",
+    "manufacturer": "DiabCare",
+    "price": 639,
+    "category": "Diabetes",
+    "description": "Used to lower blood glucose",
+    "dosage": "1 tablet daily with breakfast",
+    "sideEffects": [
+      "Hypoglycemia",
+      "Weight gain",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "120",
+    "name": "Pioglitazone 15mg",
+    "genericName": "Pioglitazone",
+    "manufacturer": "NovaPharm",
+    "price": 301,
+    "category": "Diabetes",
+    "description": "Used to control blood sugar in type 2 diabetes",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Weight gain",
+      "Edema",
+      "Heart failure risk"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "121",
+    "name": "Pramipexole 0.25mg",
+    "genericName": "Pramipexole",
+    "manufacturer": "Apex Therapeutics",
+    "price": 495,
+    "category": "Neurology",
+    "description": "Used for Parkinson's disease and restless legs",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Dizziness",
+      "Nausea",
+      "Drowsiness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "122",
+    "name": "Ropinirole 1mg",
+    "genericName": "Ropinirole",
+    "manufacturer": "TrustPharma",
+    "price": 169,
+    "category": "Neurology",
+    "description": "Used for Parkinson's disease and restless legs",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Dizziness",
+      "Nausea",
+      "Drowsiness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "123",
+    "name": "Levodopa/Carbidopa 100/25mg",
+    "genericName": "Levodopa/Carbidopa",
+    "manufacturer": "PharmaCo",
+    "price": 397,
+    "category": "Neurology",
+    "description": "Used for Parkinson's disease symptom management",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Nausea",
+      "Dizziness",
+      "Dyskinesia"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "124",
+    "name": "Topiramate 50mg",
+    "genericName": "Topiramate",
+    "manufacturer": "HealGen",
+    "price": 188,
+    "category": "Neurology",
+    "description": "Used for epilepsy and migraine prevention",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Dizziness",
+      "Weight loss",
+      "Memory issues"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "125",
+    "name": "Lamotrigine 100mg",
+    "genericName": "Lamotrigine",
+    "manufacturer": "FortisMed",
+    "price": 775,
+    "category": "Neurology",
+    "description": "Used for epilepsy and bipolar disorder",
+    "dosage": "As directed by physician",
+    "sideEffects": [
+      "Rash",
+      "Dizziness",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "126",
+    "name": "Carbamazepine 200mg",
+    "genericName": "Carbamazepine",
+    "manufacturer": "BioMedix",
+    "price": 429,
+    "category": "Neurology",
+    "description": "Used for seizures and neuropathic pain",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Dizziness",
+      "Drowsiness",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "127",
+    "name": "Gabapentin 300mg",
+    "genericName": "Gabapentin",
+    "manufacturer": "NovaPharm",
+    "price": 183,
+    "category": "Neurology",
+    "description": "Used for neuropathic pain and seizures",
+    "dosage": "1 capsule three times daily",
+    "sideEffects": [
+      "Dizziness",
+      "Drowsiness",
+      "Fatigue"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "128",
+    "name": "Pregabalin 75mg",
+    "genericName": "Pregabalin",
+    "manufacturer": "Sunrise Pharma",
+    "price": 487,
+    "category": "Neurology",
+    "description": "Used for neuropathic pain and fibromyalgia",
+    "dosage": "1 capsule twice daily",
+    "sideEffects": [
+      "Dizziness",
+      "Drowsiness",
+      "Weight gain"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "129",
+    "name": "Allopurinol 300mg",
+    "genericName": "Allopurinol",
+    "manufacturer": "PharmaCo",
+    "price": 531,
+    "category": "Musculoskeletal",
+    "description": "Used to lower uric acid in gout",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Rash",
+      "Nausea",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "130",
+    "name": "Febuxostat 80mg",
+    "genericName": "Febuxostat",
+    "manufacturer": "Apex Therapeutics",
+    "price": 238,
+    "category": "Musculoskeletal",
+    "description": "Used for chronic gout management",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Liver enzyme elevation",
+      "Nausea",
+      "Rash"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "131",
+    "name": "Methotrexate 10mg",
+    "genericName": "Methotrexate",
+    "manufacturer": "FortisMed",
+    "price": 260,
+    "category": "Oncology Support",
+    "description": "Used in cancer chemotherapy and autoimmune disorders",
+    "dosage": "As prescribed (weekly dosing common)",
+    "sideEffects": [
+      "Bone marrow suppression",
+      "Nausea",
+      "Liver toxicity"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "132",
+    "name": "Folic Acid 5mg",
+    "genericName": "Folic Acid",
+    "manufacturer": "Wellness Labs",
+    "price": 318,
+    "category": "Vitamins & Supplements",
+    "description": "Used to prevent folate deficiency",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Nausea",
+      "Allergic reaction",
+      "Irritation"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "133",
+    "name": "Etoposide 100mg",
+    "genericName": "Etoposide",
+    "manufacturer": "BioMedix",
+    "price": 367,
+    "category": "Oncology Support",
+    "description": "Used in cancer chemotherapy regimens",
+    "dosage": "As directed by oncologist",
+    "sideEffects": [
+      "Nausea",
+      "Bone marrow suppression",
+      "Hair loss"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "134",
+    "name": "Filgrastim 300mcg",
+    "genericName": "Filgrastim",
+    "manufacturer": "TrustPharma",
+    "price": 745,
+    "category": "Oncology Support",
+    "description": "Used to stimulate white blood cell production",
+    "dosage": "Inject as directed",
+    "sideEffects": [
+      "Bone pain",
+      "Fever",
+      "Injection site reaction"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "135",
+    "name": "Erythropoietin 4000IU",
+    "genericName": "Erythropoietin",
+    "manufacturer": "Zenith Labs",
+    "price": 421,
+    "category": "Oncology Support",
+    "description": "Used to treat anemia (renal or chemo-induced)",
+    "dosage": "Inject as prescribed",
+    "sideEffects": [
+      "Hypertension",
+      "Thrombosis",
+      "Injection site reaction"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "136",
+    "name": "Levocarnitine 500mg",
+    "genericName": "Levocarnitine",
+    "manufacturer": "Wellness Labs",
+    "price": 295,
+    "category": "Vitamins & Supplements",
+    "description": "Used as a supplement for metabolic support",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Nausea",
+      "Fishy odor",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "137",
+    "name": "Baclofen 10mg",
+    "genericName": "Baclofen",
+    "manufacturer": "CureAll",
+    "price": 392,
+    "category": "Musculoskeletal",
+    "description": "Used for muscle spasm relief",
+    "dosage": "1 tablet two to three times daily",
+    "sideEffects": [
+      "Drowsiness",
+      "Dizziness",
+      "Weakness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "138",
+    "name": "Tizanidine 4mg",
+    "genericName": "Tizanidine",
+    "manufacturer": "TrustPharma",
+    "price": 198,
+    "category": "Musculoskeletal",
+    "description": "Used to manage spasticity",
+    "dosage": "1 tablet up to three times daily",
+    "sideEffects": [
+      "Drowsiness",
+      "Hypotension",
+      "Dry mouth"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "139",
+    "name": "Cyclobenzaprine 10mg",
+    "genericName": "Cyclobenzaprine",
+    "manufacturer": "NovaPharm",
+    "price": 271,
+    "category": "Musculoskeletal",
+    "description": "Used for short-term muscle spasm relief",
+    "dosage": "1 tablet at bedtime",
+    "sideEffects": [
+      "Drowsiness",
+      "Dizziness",
+      "Dry mouth"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "140",
+    "name": "Sodium Chloride 0.9% 100ml",
+    "genericName": "Sodium Chloride",
+    "manufacturer": "PharmaCo",
+    "price": 195,
+    "category": "Emergency Care",
+    "description": "Used for IV fluid replacement and dilution",
+    "dosage": "As directed by clinician",
+    "sideEffects": [
+      "Fluid overload",
+      "Electrolyte imbalance",
+      "Local irritation"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "141",
+    "name": "Ropivacaine 10mg",
+    "genericName": "Ropivacaine",
+    "manufacturer": "FortisMed",
+    "price": 598,
+    "category": "Anesthesia",
+    "description": "Local anesthetic for regional blocks",
+    "dosage": "Inject as directed by anesthetist",
+    "sideEffects": [
+      "Hypotension",
+      "Bradycardia",
+      "Nerve damage (rare)"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "142",
+    "name": "Ropivacaine 20mg",
+    "genericName": "Ropivacaine",
+    "manufacturer": "FortisMed",
+    "price": 684,
+    "category": "Anesthesia",
+    "description": "Local anesthetic for regional blocks",
+    "dosage": "Inject as directed by anesthetist",
+    "sideEffects": [
+      "Hypotension",
+      "Bradycardia",
+      "Nerve damage (rare)"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "143",
+    "name": "Heparin 5000IU",
+    "genericName": "Heparin",
+    "manufacturer": "BioMedix",
+    "price": 549,
+    "category": "Anticoagulant",
+    "description": "Used for prevention/treatment of thrombosis",
+    "dosage": "Inject as directed; monitor aPTT",
+    "sideEffects": [
+      "Bleeding",
+      "Heparin-induced thrombocytopenia",
+      "Injection site reactions"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "144",
+    "name": "Enoxaparin 40mg",
+    "genericName": "Enoxaparin",
+    "manufacturer": "TrustPharma",
+    "price": 775,
+    "category": "Anticoagulant",
+    "description": "Low molecular weight heparin for thrombosis prevention",
+    "dosage": "Inject once daily subcutaneously",
+    "sideEffects": [
+      "Bleeding",
+      "Injection site bruising",
+      "Hyperkalemia"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "145",
+    "name": "Apixaban 5mg",
+    "genericName": "Apixaban",
+    "manufacturer": "CardioMed",
+    "price": 588,
+    "category": "Anticoagulant",
+    "description": "Used to reduce risk of stroke and thrombosis",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Bleeding",
+      "Anemia",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "146",
+    "name": "Rivaroxaban 20mg",
+    "genericName": "Rivaroxaban",
+    "manufacturer": "CardioMed",
+    "price": 375,
+    "category": "Anticoagulant",
+    "description": "Used to reduce risk of stroke and thrombosis",
+    "dosage": "1 tablet daily with food",
+    "sideEffects": [
+      "Bleeding",
+      "Back pain",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "147",
+    "name": "Tranexamic Acid 500mg",
+    "genericName": "Tranexamic Acid",
+    "manufacturer": "PharmaCo",
+    "price": 599,
+    "category": "Emergency Care",
+    "description": "Used to reduce bleeding in certain conditions",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Thrombosis risk",
+      "Nausea",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "148",
+    "name": "Tetrabenazine 25mg",
+    "genericName": "Tetrabenazine",
+    "manufacturer": "NovaPharm",
+    "price": 250,
+    "category": "Neurology",
+    "description": "Used for hyperkinetic movement disorders",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Depression",
+      "Drowsiness",
+      "Parkinsonism"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "149",
+    "name": "Hydroxychloroquine 200mg",
+    "genericName": "Hydroxychloroquine",
+    "manufacturer": "MediLabs",
+    "price": 250,
+    "category": "Immunology",
+    "description": "Used for autoimmune conditions and malaria",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Retinopathy (long-term)",
+      "Nausea",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "150",
+    "name": "Azathioprine 50mg",
+    "genericName": "Azathioprine",
+    "manufacturer": "FortisMed",
+    "price": 311,
+    "category": "Immunology",
+    "description": "Used for autoimmune disorders and transplant rejection prevention",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Bone marrow suppression",
+      "Nausea",
+      "Liver toxicity"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "151",
+    "name": "Mycophenolate Mofetil 500mg",
+    "genericName": "Mycophenolate Mofetil",
+    "manufacturer": "BioMedix",
+    "price": 684,
+    "category": "Immunology",
+    "description": "Used for transplant immunosuppression",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Gastrointestinal upset",
+      "Infection risk",
+      "Bone marrow suppression"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "152",
+    "name": "Tacrolimus 1mg",
+    "genericName": "Tacrolimus",
+    "manufacturer": "Zenith Labs",
+    "price": 737,
+    "category": "Immunology",
+    "description": "Used for transplant immunosuppression",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Nephrotoxicity",
+      "Hypertension",
+      "Tremor"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "153",
+    "name": "Cyclosporine 100mg",
+    "genericName": "Cyclosporine",
+    "manufacturer": "TrustPharma",
+    "price": 655,
+    "category": "Immunology",
+    "description": "Used for transplant immunosuppression",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Nephrotoxicity",
+      "Hypertension",
+      "Gum hyperplasia"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "154",
+    "name": "Adalimumab 40mg",
+    "genericName": "Adalimumab",
+    "manufacturer": "Apex Therapeutics",
+    "price": 894,
+    "category": "Immunology",
+    "description": "Monoclonal antibody for autoimmune diseases",
+    "dosage": "Inject as directed",
+    "sideEffects": [
+      "Infection risk",
+      "Injection site reaction",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "155",
+    "name": "Etanercept 50mg",
+    "genericName": "Etanercept",
+    "manufacturer": "FortisMed",
+    "price": 769,
+    "category": "Immunology",
+    "description": "Monoclonal protein for autoimmune diseases",
+    "dosage": "Subcutaneous injection weekly",
+    "sideEffects": [
+      "Infections",
+      "Injection site reaction",
+      "Allergic reaction"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "156",
+    "name": "Infliximab 100mg",
+    "genericName": "Infliximab",
+    "manufacturer": "BioMedix",
+    "price": 799,
+    "category": "Immunology",
+    "description": "IV monoclonal antibody for autoimmune diseases",
+    "dosage": "IV infusion as directed",
+    "sideEffects": [
+      "Infusion reactions",
+      "Infection risk",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "157",
+    "name": "Cetirizine 10mg",
+    "genericName": "Cetirizine",
+    "manufacturer": "AllerCare",
+    "price": 80,
+    "category": "Antihistamine",
+    "description": "Relief from allergies and hay fever",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Drowsiness",
+      "Dry mouth",
+      "Fatigue"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "158",
+    "name": "Amoxicillin/Clavulanic Acid 500/125mg",
+    "genericName": "Co-amoxiclav",
+    "manufacturer": "PharmaCo",
+    "price": 417,
+    "category": "Antibiotic",
+    "description": "Broad spectrum antibiotic for infections",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Diarrhea",
+      "Nausea",
+      "Rash"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "159",
+    "name": "Levocetirizine 5mg",
+    "genericName": "Levocetirizine",
+    "manufacturer": "AllerCare",
+    "price": 140,
+    "category": "Antihistamine",
+    "description": "Relief from allergies and urticaria",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Drowsiness",
+      "Dry mouth",
+      "Headache"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "160",
+    "name": "Benzonatate 100mg",
+    "genericName": "Benzonatate",
+    "manufacturer": "MediLabs",
+    "price": 521,
+    "category": "Respiratory",
+    "description": "Used as a cough suppressant",
+    "dosage": "1 capsule three times daily as needed",
+    "sideEffects": [
+      "Drowsiness",
+      "Dizziness",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "161",
+    "name": "Tobramycin Ophthalmic 0.3%",
+    "genericName": "Tobramycin",
+    "manufacturer": "TrustPharma",
+    "price": 395,
+    "category": "Ophthalmic",
+    "description": "Used for bacterial eye infections",
+    "dosage": "1 drop every 4 hours",
+    "sideEffects": [
+      "Eye irritation",
+      "Redness",
+      "Allergic reaction"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "162",
+    "name": "Ofloxacin Ophthalmic 0.3%",
+    "genericName": "Ofloxacin",
+    "manufacturer": "PharmaCo",
+    "price": 252,
+    "category": "Ophthalmic",
+    "description": "Used for bacterial eye infections",
+    "dosage": "1 drop every 4 hours",
+    "sideEffects": [
+      "Eye irritation",
+      "Redness",
+      "Burning"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "163",
+    "name": "Nystatin Cream 100,000 IU",
+    "genericName": "Nystatin",
+    "manufacturer": "Dermatica",
+    "price": 294,
+    "category": "Antifungal",
+    "description": "Used for fungal skin infections",
+    "dosage": "Apply twice daily",
+    "sideEffects": [
+      "Irritation",
+      "Redness",
+      "Allergic reaction"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "164",
+    "name": "Tretinoin 0.05%",
+    "genericName": "Tretinoin",
+    "manufacturer": "Apex Therapeutics",
+    "price": 325,
+    "category": "Dermatology",
+    "description": "Used for acne and photoaging",
+    "dosage": "Apply once daily at night",
+    "sideEffects": [
+      "Irritation",
+      "Dryness",
+      "Photosensitivity"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "165",
+    "name": "Minoxidil 5%",
+    "genericName": "Minoxidil",
+    "manufacturer": "Wellness Labs",
+    "price": 301,
+    "category": "Dermatology",
+    "description": "Topical treatment for hair loss",
+    "dosage": "Apply twice daily to scalp",
+    "sideEffects": [
+      "Scalp irritation",
+      "Unwanted hair growth",
+      "Dizziness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "166",
+    "name": "Ondansetron ODT 4mg",
+    "genericName": "Ondansetron",
+    "manufacturer": "FortisMed",
+    "price": 199,
+    "category": "Antiemetic",
+    "description": "Used to prevent nausea and vomiting",
+    "dosage": "1 tablet as needed",
+    "sideEffects": [
+      "Headache",
+      "Constipation",
+      "Fatigue"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "167",
+    "name": "Methylprednisolone 4mg",
+    "genericName": "Methylprednisolone",
+    "manufacturer": "BioMedix",
+    "price": 448,
+    "category": "Immunology",
+    "description": "Systemic steroid for inflammation",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Weight gain",
+      "Insomnia",
+      "Mood swings"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "168",
+    "name": "Prednisolone 5mg",
+    "genericName": "Prednisolone",
+    "manufacturer": "PharmaCo",
+    "price": 292,
+    "category": "Immunology",
+    "description": "Systemic steroid for inflammatory conditions",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Weight gain",
+      "Increased appetite",
+      "Mood changes"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "169",
+    "name": "Fluticasone Nasal Spray 50mcg",
+    "genericName": "Fluticasone",
+    "manufacturer": "AllerCare",
+    "price": 169,
+    "category": "ENT",
+    "description": "Used for allergic rhinitis",
+    "dosage": "1-2 sprays daily",
+    "sideEffects": [
+      "Nasal irritation",
+      "Epistaxis",
+      "Headache"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "170",
+    "name": "Beclomethasone Nasal Spray 50mcg",
+    "genericName": "Beclomethasone",
+    "manufacturer": "HealGen",
+    "price": 426,
+    "category": "ENT",
+    "description": "Used for nasal allergy symptoms",
+    "dosage": "2 sprays once daily",
+    "sideEffects": [
+      "Nasal irritation",
+      "Dryness",
+      "Headache"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "171",
+    "name": "Sodium Chloride Nasal Spray 0.65%",
+    "genericName": "Sodium Chloride",
+    "manufacturer": "TrustPharma",
+    "price": 356,
+    "category": "ENT",
+    "description": "Used for nasal irrigation and relief",
+    "dosage": "Use as needed",
+    "sideEffects": [
+      "Nasal irritation",
+      "Burning",
+      "Sneezing"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "172",
+    "name": "Mometasone 50mcg",
+    "genericName": "Mometasone",
+    "manufacturer": "Sunrise Pharma",
+    "price": 180,
+    "category": "ENT",
+    "description": "Used for allergic rhinitis symptoms",
+    "dosage": "1 spray daily",
+    "sideEffects": [
+      "Nasal irritation",
+      "Epistaxis",
+      "Headache"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "173",
+    "name": "Azelastine Nasal Spray 0.1%",
+    "genericName": "Azelastine",
+    "manufacturer": "NovaPharm",
+    "price": 306,
+    "category": "ENT",
+    "description": "Used for allergic rhinitis",
+    "dosage": "1-2 sprays twice daily",
+    "sideEffects": [
+      "Bitter taste",
+      "Nasal irritation",
+      "Drowsiness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "174",
+    "name": "Mupirocin Nasal 5%",
+    "genericName": "Mupirocin",
+    "manufacturer": "Dermatica",
+    "price": 302,
+    "category": "Dermatology",
+    "description": "Used for nasal carriage eradication of bacteria",
+    "dosage": "Apply as directed",
+    "sideEffects": [
+      "Irritation",
+      "Nausea",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "175",
+    "name": "Epinephrine Auto-Injector 0.3mg",
+    "genericName": "Epinephrine",
+    "manufacturer": "Apex Therapeutics",
+    "price": 799,
+    "category": "Emergency Care",
+    "description": "Used for anaphylactic reactions",
+    "dosage": "Inject intramuscularly as emergency",
+    "sideEffects": [
+      "Palpitations",
+      "Tremor",
+      "Anxiety"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "176",
+    "name": "Saline Eye Drops 0.9%",
+    "genericName": "Sodium Chloride",
+    "manufacturer": "PharmaCo",
+    "price": 82,
+    "category": "Ophthalmic",
+    "description": "Used for eye irrigation and lubrication",
+    "dosage": "1-2 drops as needed",
+    "sideEffects": [
+      "Mild stinging",
+      "Temporary irritation",
+      "Allergic reaction"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "177",
+    "name": "Ketorolac Tromethamine 10mg",
+    "genericName": "Ketorolac",
+    "manufacturer": "PainFree",
+    "price": 705,
+    "category": "Pain Relief",
+    "description": "Short-term management of moderate to severe pain",
+    "dosage": "As prescribed; short course only",
+    "sideEffects": [
+      "Bleeding risk",
+      "Stomach pain",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "178",
+    "name": "Sodium Nitroprusside 50mg",
+    "genericName": "Sodium Nitroprusside",
+    "manufacturer": "CardioMed",
+    "price": 673,
+    "category": "Cardiovascular",
+    "description": "Used for hypertensive emergencies",
+    "dosage": "IV infusion as directed",
+    "sideEffects": [
+      "Hypotension",
+      "Cyanide toxicity (rare)",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": false
+  },
+  {
+    "id": "179",
+    "name": "Dobutamine 250mg",
+    "genericName": "Dobutamine",
+    "manufacturer": "BioMedix",
+    "price": 660,
+    "category": "Cardiovascular",
+    "description": "Used for cardiac support in acute heart failure",
+    "dosage": "IV infusion as directed",
+    "sideEffects": [
+      "Arrhythmias",
+      "Tachycardia",
+      "Hypotension"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "180",
+    "name": "Amiodarone 200mg",
+    "genericName": "Amiodarone",
+    "manufacturer": "FortisMed",
+    "price": 240,
+    "category": "Cardiovascular",
+    "description": "Used for serious arrhythmias",
+    "dosage": "As prescribed; loading and maintenance dosing",
+    "sideEffects": [
+      "Pulmonary toxicity",
+      "Thyroid dysfunction",
+      "Liver enzyme rise"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "181",
+    "name": "Diltiazem 90mg",
+    "genericName": "Diltiazem",
+    "manufacturer": "Apex Therapeutics",
+    "price": 520,
+    "category": "Cardiovascular",
+    "description": "Used for angina and arrhythmias",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Bradycardia",
+      "Dizziness",
+      "Constipation"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "182",
+    "name": "Verapamil 120mg",
+    "genericName": "Verapamil",
+    "manufacturer": "NovaPharm",
+    "price": 201,
+    "category": "Cardiovascular",
+    "description": "Used for angina and arrhythmias",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Constipation",
+      "Dizziness",
+      "Bradycardia"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "183",
+    "name": "Clarithromycin SR 500mg",
+    "genericName": "Clarithromycin",
+    "manufacturer": "MediLabs",
+    "price": 512,
+    "category": "Antibiotic",
+    "description": "Used for respiratory and other infections",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Nausea",
+      "Taste disturbance",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "184",
+    "name": "Nitazoxanide 500mg",
+    "genericName": "Nitazoxanide",
+    "manufacturer": "TrustPharma",
+    "price": 403,
+    "category": "Antiparasitic",
+    "description": "Used for protozoal and parasitic infections",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Nausea",
+      "Headache",
+      "Abdominal pain"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "185",
+    "name": "Praziquantel 600mg",
+    "genericName": "Praziquantel",
+    "manufacturer": "Sunrise Pharma",
+    "price": 644,
+    "category": "Antiparasitic",
+    "description": "Used for trematode and cestode infections",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Dizziness",
+      "Headache",
+      "Abdominal pain"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "186",
+    "name": "Albendazole 400mg",
+    "genericName": "Albendazole",
+    "manufacturer": "PharmaCo",
+    "price": 317,
+    "category": "Antiparasitic",
+    "description": "Used for helminth infections",
+    "dosage": "1 tablet as single dose or as directed",
+    "sideEffects": [
+      "Nausea",
+      "Headache",
+      "Dizziness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "187",
+    "name": "Pyrantel Pamoate 250mg",
+    "genericName": "Pyrantel Pamoate",
+    "manufacturer": "CureAll",
+    "price": 219,
+    "category": "Antiparasitic",
+    "description": "Used for pinworm and roundworm infections",
+    "dosage": "Single dose as directed",
+    "sideEffects": [
+      "Nausea",
+      "Dizziness",
+      "Abdominal pain"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "188",
+    "name": "Permethrin 5% Cream",
+    "genericName": "Permethrin",
+    "manufacturer": "Dermatica",
+    "price": 315,
+    "category": "Dermatology",
+    "description": "Used for scabies and lice treatment",
+    "dosage": "Apply as instructed",
+    "sideEffects": [
+      "Irritation",
+      "Itching",
+      "Redness"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "189",
+    "name": "Benzyl Benzoate 25%",
+    "genericName": "Benzyl Benzoate",
+    "manufacturer": "TrustPharma",
+    "price": 280,
+    "category": "Dermatology",
+    "description": "Used for scabies and parasitic skin conditions",
+    "dosage": "Apply as directed",
+    "sideEffects": [
+      "Irritation",
+      "Burning",
+      "Allergic reaction"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "190",
+    "name": "Naproxen Sodium 220mg",
+    "genericName": "Naproxen",
+    "manufacturer": "PainFree",
+    "price": 203,
+    "category": "Pain Relief",
+    "description": "Used for mild to moderate pain and inflammation",
+    "dosage": "1 tablet every 8-12 hours",
+    "sideEffects": [
+      "Stomach pain",
+      "Dizziness",
+      "Heartburn"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "191",
+    "name": "Oxymetazoline Nasal Spray 0.05%",
+    "genericName": "Oxymetazoline",
+    "manufacturer": "AllerCare",
+    "price": 118,
+    "category": "ENT",
+    "description": "Topical nasal decongestant for short-term use",
+    "dosage": "Use 2-3 sprays per nostril no more than 3 days",
+    "sideEffects": [
+      "Nasal dryness",
+      "Rebound congestion",
+      "Burning"
+    ],
+    "prescriptionRequired": false,
+    "inStock": true
+  },
+  {
+    "id": "192",
+    "name": "Mometasone Furoate Cream 0.1%",
+    "genericName": "Mometasone",
+    "manufacturer": "Dermatica",
+    "price": 255,
+    "category": "Dermatology",
+    "description": "Topical steroid for inflammatory skin conditions",
+    "dosage": "Apply thin layer once daily",
+    "sideEffects": [
+      "Skin thinning",
+      "Irritation",
+      "Dryness"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "193",
+    "name": "Clindamycin 300mg",
+    "genericName": "Clindamycin",
+    "manufacturer": "BioMedix",
+    "price": 529,
+    "category": "Antibiotic",
+    "description": "Used for skin and soft tissue infections",
+    "dosage": "1 capsule three times daily",
+    "sideEffects": [
+      "Diarrhea",
+      "Abdominal pain",
+      "Rash"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "194",
+    "name": "Metronidazole 400mg",
+    "genericName": "Metronidazole",
+    "manufacturer": "PharmaCo",
+    "price": 321,
+    "category": "Antibiotic",
+    "description": "Used for anaerobic and protozoal infections",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Metallic taste",
+      "Nausea",
+      "Diarrhea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "195",
+    "name": "Nitrofurantoin 100mg",
+    "genericName": "Nitrofurantoin",
+    "manufacturer": "MediLabs",
+    "price": 517,
+    "category": "Antibiotic",
+    "description": "Used for urinary tract infections",
+    "dosage": "1 capsule twice daily",
+    "sideEffects": [
+      "Nausea",
+      "Pulmonary reactions (rare)",
+      "Headache"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "196",
+    "name": "Methimazole 5mg",
+    "genericName": "Methimazole",
+    "manufacturer": "Zenith Labs",
+    "price": 458,
+    "category": "Endocrine",
+    "description": "Used for hyperthyroidism",
+    "dosage": "As prescribed",
+    "sideEffects": [
+      "Rash",
+      "Arthralgia",
+      "Agranulocytosis (rare)"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "197",
+    "name": "Propranolol LA 80mg",
+    "genericName": "Propranolol",
+    "manufacturer": "CardioMed",
+    "price": 272,
+    "category": "Cardiovascular",
+    "description": "Long-acting beta blocker for various cardiac conditions",
+    "dosage": "1 tablet daily",
+    "sideEffects": [
+      "Fatigue",
+      "Dizziness",
+      "Sleep disturbances"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "198",
+    "name": "Metformin XR 500mg",
+    "genericName": "Metformin",
+    "manufacturer": "DiabCare",
+    "price": 380,
+    "category": "Diabetes",
+    "description": "Extended-release metformin for blood sugar control",
+    "dosage": "1 tablet daily with meal",
+    "sideEffects": [
+      "Nausea",
+      "Diarrhea",
+      "Stomach upset"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "199",
+    "name": "Ticagrelor 90mg",
+    "genericName": "Ticagrelor",
+    "manufacturer": "CardioMed",
+    "price": 761,
+    "category": "Cardiovascular",
+    "description": "Antiplatelet for acute coronary syndromes",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Bleeding",
+      "Dyspnea",
+      "Bradyarrhythmia"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  },
+  {
+    "id": "200",
+    "name": "Voriconazole 200mg",
+    "genericName": "Voriconazole",
+    "manufacturer": "FortisMed",
+    "price": 782,
+    "category": "Antifungal",
+    "description": "Used for serious fungal infections",
+    "dosage": "1 tablet twice daily",
+    "sideEffects": [
+      "Visual disturbances",
+      "Liver enzyme elevation",
+      "Nausea"
+    ],
+    "prescriptionRequired": true,
+    "inStock": true
+  }
+]

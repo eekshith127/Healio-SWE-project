@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691732173849",
+    "project_id": "healio-bf5ed",
+    "storage_bucket": "healio-bf5ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691732173849:android:48fb875d45f9d9e0a58688",
+        "android_client_info": {
+          "package_name": "com.example.healio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZmfA7SWpfGvxpLoy411MKRh1xEJ_Bbdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "type": "appointment",
+    "title": "Appointment Confirmed",
+    "message": "Your appointment with Dr. Sarah Johnson is confirmed for tomorrow at 10:00 AM",
+    "timestamp": "2024-01-15T09:30:00Z",
+    "read": false,
+    "icon": "📅"
+  },
+  {
+    "id": "2",
+    "type": "lab_result",
+    "title": "Lab Results Ready",
+    "message": "Your Complete Blood Count (CBC) test results are now available",
+    "timestamp": "2024-01-15T08:15:00Z",
+    "read": false,
+    "icon": "🧪"
+  },
+  {
+    "id": "3",
+    "type": "medicine",
+    "title": "Medicine Reminder",
+    "message": "Time to take your medication: Amoxicillin 250mg",
+    "timestamp": "2024-01-15T07:00:00Z",
+    "read": true,
+    "icon": "💊"
+  },
+  {
+    "id": "4",
+    "type": "system",
+    "title": "Welcome to Healio!",
+    "message": "Thank you for choosing Healio. Explore our features to manage your health better.",
+    "timestamp": "2024-01-14T12:00:00Z",
+    "read": true,
+    "icon": "🩺"
+  },
+  {
+    "id": "5",
+    "type": "reminder",
+    "title": "Appointment Reminder",
+    "message": "You have an appointment with Dr. Michael Chen on Jan 20 at 3:00 PM",
+    "timestamp": "2024-01-14T10:30:00Z",
+    "read": true,
+    "icon": "⏰"
+  },
+  {
+    "id": "6",
+    "type": "appointment",
+    "title": "Appointment Cancelled",
+    "message": "Your appointment on Jan 18 has been rescheduled. Please book a new slot.",
+    "timestamp": "2024-01-13T16:20:00Z",
+    "read": true,
+    "icon": "❌"
+  }
+]
